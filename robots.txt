@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gelidmarket.shop/sitemap.xml
